@@ -5,4 +5,6 @@ I built this app to learn the following:
     - They are NodeJS event emitters
 - How to use basic window conventions by listening for event emitters from modules such as app and BrowswerWindow
 - Preload Scripts
-- Additional app features
+- Adding basic features
+- Packaging an Electron app
+- Publishing and updating an Electron app
